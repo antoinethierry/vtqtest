@@ -10,7 +10,7 @@
 
 @interface ViewController : UIViewController
 
-@property NSString* test;
+@property NSString* test2;
 
 @end
 
